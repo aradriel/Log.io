@@ -13,7 +13,7 @@
     "url": "https://github.com/NarrativeScience/Log.io"
   },
   "dependencies": {
-    "forever": "0.8.2",
+    "forever": "0.8.5",
     "socket.io": "0.9.0",
     "socket.io-client": "0.9.0",
     "connect": "<=1.8.4",
